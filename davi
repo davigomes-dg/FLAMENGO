@@ -1,0 +1,3 @@
+Nome = input ("qual seu nome?")
+Idade = input ("qual sua idade?")
+Print ("prazer em conhecê-lo!", nome)
